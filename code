@@ -1,0 +1,22 @@
+html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Lugares Turísticos da Europa</title>
+</head>
+<body>
+    <h1>Lugares Turísticos da Europa</h1>
+
+    <h2>Destino 1</h2>
+    <p>Descrição do destino 1.</p>
+
+    <h2>Destino 2</h2>
+    <p>Descrição do destino 2.</p>
+
+    <h2>Destino 3</h2>
+    <p>Descrição do destino 3.</p>
+
+    <!-- Adicione mais destinos abaixo -->
+
+</body>
+</html>
